@@ -11,7 +11,7 @@
 4) this:
    {
        "data": {
-            "Left" {
+            "Left": {
                 "value": "string"
             }
     }
